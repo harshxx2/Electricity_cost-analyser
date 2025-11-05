@@ -36,7 +36,7 @@ The project uses the **Electricity Cost Dataset**, containing features such as:
 - Structure Type  
 - Electricity Cost  
 
-**Dataset Source:** [Electricity Dataset Repository](https://github.com/shreyhi/environment_analysis.git)
+
 
 ---
 
